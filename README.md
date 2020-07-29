@@ -1,4 +1,6 @@
 ### Hi there ，I'm sunct.👋
+- 🤔 I’m looking for help with ...
+
 搬砖者一枚。
 ### Languages and Tools
 
