@@ -1,8 +1,37 @@
 ### Hi there ，I'm sunct.👋
 搬砖者一枚。
+### Languages and Tools
 
+<p>
+  <code>
+    <a href='https://www.php.net'><img src='https://www.php.net/images/logos/php-logo.svg' height='30'></a>
+  </code>
+  <code>
+     <a href='https://golang.org'><img src='https://golang.org/lib/godoc/images/go-logo-blue.svg' height='30'></a>
+  </code>
+  <code>
+     <a href='https://www.python.org'><img src='https://www.python.org/static/img/python-logo.png' height='30'></a>
+  </code>
+   <code>
+     <a href='https://git-scm.com'><img src='https://git-scm.com/images/logo@2x.png' height='30'></a>
+  </code>
+  <br/>
+  <code>
+    <a href='https://www.iterm2.com'><img src='https://www.iterm2.com/img/logo2x.jpg' height='30'></a>
+  </code>
+ <code>
+    <a href='https://www.mysql.com'> <img src='https://labs.mysql.com/common/logos/mysql-logo.svg?v2' height='30'></a>
+  </code>
+   <code>
+    <a href='https://redis.io'> <img src='https://redis.io/images/redis-white.png' height='30'></a>
+  </code>
+    <code>
+    <a href='https://www.json.org'> <img src='https://www.json.org/img/json160.gif' height='30'></a>
+  </code>
+
+ </div> 
+ 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sunct)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunct&layout=compact)
 <!--
