@@ -1,10 +1,10 @@
 ### Hi there ，I'm sunct.👋
+搬砖者一枚。
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sunct)
 
---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunct)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunct&layout=compact)
 <!--
 **sunct/sunct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
