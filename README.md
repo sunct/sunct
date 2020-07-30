@@ -25,7 +25,7 @@
     <a href='https://www.mysql.com'> <img src='https://labs.mysql.com/common/logos/mysql-logo.svg?v2' height='30'></a>
   </code>
    <code>
-    <a href='https://redis.io'> <img src='https://redis.io/images/redis-white.png' height='30'></a>
+    <a href='https://redis.io'> <img src='https://redis.io/images/redis.png' height='30'></a>
   </code>
    <code>
     <a href='https://www.json.org'> <img src='https://www.json.org/img/json160.gif' height='30'></a>
