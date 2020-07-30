@@ -46,6 +46,9 @@
   <code>
     <a href='http://www.sublimetext.com/'> <img src='http://www.sublimetext.com/images/icon.png' height='30'></a>
   </code>
+  <code>
+    <a href='https://taro.jd.com/'> <img src='https://img20.360buyimg.com/ling/jfs/t1/20876/36/12835/3043/5c9c2929Ed18cfb11/15b1c03ec830ab8e.png' height='30'></a>
+  </code>
 
  </div> 
  
